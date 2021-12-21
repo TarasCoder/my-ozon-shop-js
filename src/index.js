@@ -10,5 +10,5 @@ search();
 catalog();
 filter();
 
-// Homework
+// TO do
 // - 1 Реализовать фильтрацию товаров по цене
